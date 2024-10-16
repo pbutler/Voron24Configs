@@ -4,3 +4,4 @@ save_variables.cfg
 *_results/belts/*.png
 *_results/inputshaper/*.csv
 *_results/vibrations/*.tar.gz
+mmu-*/

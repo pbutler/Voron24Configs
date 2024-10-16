@@ -3,10 +3,13 @@
 ## Configuration
   * Voron 2.4
   * ERCFv1.1-ish
-  * Blinky
-  * CAN Toolhead
+    * Blinky
+    * TripleDecky
+  * CAN Toolhead (ebb36)
   * Rapido 2 
-  * klicky probe
+  * klicky probe w/servo
+  * nevermore
+  * bed fans
   * etc
 
 ## Setup

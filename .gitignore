@@ -1,0 +1,6 @@
+saved_variables.cfg
+save_variables.cfg
+*_results/belts/*.csv
+*_results/belts/*.png
+*_results/inputshaper/*.csv
+*_results/vibrations/*.tar.gz
